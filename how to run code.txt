@@ -1,0 +1,7 @@
+(go to command prompt by typing cmd on the link where the lex file is saved)
+
+flex file.l
+
+gcc lex.yy.c
+
+a.exe
