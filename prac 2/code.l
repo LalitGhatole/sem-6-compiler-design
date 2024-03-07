@@ -1,4 +1,4 @@
-%{
+    %{
 #include <stdio.h>
 int yywrap(void); // Declaration
 %}
